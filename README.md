@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Brian Fischer
+Hi 👋 My name is Phish
 ==============================
 
 Cyber Security Researcher
@@ -24,7 +24,7 @@ Love OSINT research / Currently learning Python through CS50
 
 *   🌍  I'm based in Cleveland Area
 *   ✉️  You can contact me at [g33kphish@gmail.com](mailto:g33kphish@gmail.com)
-*   🧠  I'm learning Python CS50### Skills 
+*   🧠  I'm learning Python CS50 
 
 ### Skills
 
@@ -42,6 +42,6 @@ Love OSINT research / Currently learning Python through CS50
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/g33kphish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display:  margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/g33kphish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>                      

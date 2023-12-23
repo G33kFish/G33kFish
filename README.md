@@ -32,6 +32,7 @@ Love OSINT research / Currently learning Python through CS50
 
 ### Support Me
 
-<href="https://www.buymeacoffee.com/g33kphish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250"/>
-
+<p>
+<a href="https://www.buymeacoffee.com/g33kphish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250"/></a>
+</p>
 

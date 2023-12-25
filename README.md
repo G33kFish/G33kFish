@@ -25,8 +25,7 @@ Love OSINT research / Currently learning Python through CS50
 ### Badges
 <b> My TryHackMe Stats</b>
 <p>
-<a <img src="https://tryhackme-badges.s3.amazonaws.com/G33kPhish.png" alt="TryHackMe"></a>
-  
+<img src="https://tryhackme-badges.s3.amazonaws.com/G33kPhish.png" alt="TryHackMe">
 </p>
 
 

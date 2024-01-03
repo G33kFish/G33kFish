@@ -4,7 +4,7 @@ Hi 👋 My name is Fish {Phish}
 Cyber Security Researcher
 -------------------------
 
-Love OSINT research / Currently learning Python through CS50
+Love OSINT research
 
 * 🌍  I'm based in Cleveland Area
 * ✉️  You can contact me at [g33kphish@gmail.com](mailto:g33kphish@gmail.com)

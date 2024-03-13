@@ -8,7 +8,7 @@ Love OSINT research
 
 * 🌍  I'm based in Cleveland Area
 * ✉️  You can contact me at [g33kphish@gmail.com](mailto:g33kphish@gmail.com)
-* 🧠  I'm currently learning Python CS5P // Introduction to Cybersecurity CS50CS // Introduction to Computer Science CS50x
+* 🧠  I'm currently learning Python CS50P // Introduction to Cybersecurity CS50CS // Introduction to Computer Science CS50x
 
 ### Skills
 

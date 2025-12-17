@@ -7,7 +7,7 @@ Cyber Security Researcher
 Love OSINT research
 
 * 🌍  I'm based in Cleveland Area
-* ✉️  You can contact me at [g33kphish@gmail.com](mailto:g33kphish@gmail.com)
+* ✉️  You can contact me at [EchoPhishLabs@gmail.com](mailto:echophishlabs@gmail.com)
 * 🧠  I'm currently learning Python CS50P // Introduction to Cybersecurity CS50CS // Introduction to Computer Science CS50x
 
 ### Skills

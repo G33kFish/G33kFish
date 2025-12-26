@@ -25,7 +25,7 @@ Love OSINT research
 ### Badges
 <b> My TryHackMe Stats</b>
 <p>
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=786519" style='border:none;'></img>
+<img src="https://tryhackme-badges.s3.amazonaws.com/G33kPhish.png" alt="Your Image Badge" />
 </p>
 
 

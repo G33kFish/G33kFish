@@ -26,6 +26,7 @@ Love OSINT research
 <b> My TryHackMe Stats</b>
 <p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/G33kPhish.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=786519" style='border:none;'></iframe>
 </p>
 
 

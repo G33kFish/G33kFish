@@ -30,6 +30,8 @@ Love OSINT research
 <b> My TryHackMe Stats</b>
 <p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/G33kPhish.png" alt="Your Image Badge" />
+<b>I no longer use or associate myself with TryHackME due to business practices from THM and NoScope</b>b>
+
 </p>
 
 <!--

@@ -7,9 +7,9 @@ Cyber Security Researcher
 Love OSINT research
 
 * I'm based in Cleveland Area
+* Founder of EchoPhish Cyber Investigations and EchoPhish Labs
 * I am an OSINT Researcher but a tech enthusiast and gadget geek
-* I'm currently learning Python CS50P // Introduction to Cybersecurity CS50CS // Introduction to Computer Science CS50x
-
+  
 *  You can contact me at [EchoPhishLabs@gmail.com](mailto:echophishlabs@gmail.com)
 
 

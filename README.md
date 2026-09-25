@@ -10,7 +10,7 @@ Love OSINT research
 * Founder of EchoPhish Cyber Investigations and EchoPhish Labs
 * I am an OSINT Researcher but a tech enthusiast and gadget geek
   
-*  You can contact me at [EchoPhishLabs@gmail.com](mailto:info@EchoPhish.com)
+*  You can contact me at [info@EchoPhish.com](mailto:info@EchoPhish.com)
 
 
 ### Skills
